@@ -10,5 +10,7 @@ public class TestReleasePlugin {
 		System.out.println("Line second in the first feature");
 		
 		// other changes
+
+		// some changes in release 2.0
 	}
 }
