@@ -11,6 +11,6 @@ public class TestReleasePlugin {
 		
 		// other changes
 
-		// some changes in release 2.0
+		// some changes in release 3.0
 	}
 }
