@@ -4,7 +4,7 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.oxygenxml</groupId>
-	<version>0.5</version>
+	<version>0.6</version>
 	
 	<artifactId>test-release-plugin</artifactId>
 	
