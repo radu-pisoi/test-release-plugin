@@ -7,7 +7,7 @@
 	<version>0.21.5</version>
 	
 	<artifactId>test-release-plugin</artifactId>
-	<!-- some changes -->
+	<!-- some changes 0.21.5-->
 	<packaging>jar</packaging>
 	
 	<properties>
